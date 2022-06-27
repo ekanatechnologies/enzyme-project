@@ -1,0 +1,100 @@
+[
+  {
+    "ASSETS": "BTC",
+    "NAME": "Bitcoin",
+    "ICON": "btc.png",
+    "BALANCE": "1927.64548",
+    "FIELD4": "5828",
+    "CHANGE": "2.04",
+    "VALUE": "1346.24",
+    "ALLOCATION": "15.24"
+  },
+  {
+    "ASSETS": "TBX",
+    "NAME": "Tokenbox",
+    "ICON": "tokenbox.png",
+    "BALANCE": "19266",
+    "CHANGE": "2.05",
+    "FIELD4": "828",
+    "VALUE": "1136.24",
+    "ALLOCATION": "45.36"
+  },
+  {
+    "ASSETS": "ETH",
+    "NAME": "Ethereum",
+    "ICON": "eth.png",
+    "BALANCE": "18266.6454",
+    "FIELD4": "25828",
+    "CHANGE": "23.05",
+    "VALUE": "6346.24",
+    "ALLOCATION": "67.36"
+  },
+  {
+    "ASSETS": "UBEX",
+    "NAME": "Ubex",
+    "ICON": "ubex.png",
+    "BALANCE": "6266.64",
+    "FIELD4": "568",
+    "CHANGE": "12.05",
+    "VALUE": "91346.24",
+    "ALLOCATION": "85.36"
+  },
+  {
+    "ASSETS": "STEEM",
+    "NAME": "Steem",
+    "ICON": "steem.png",
+    "BALANCE": "7666.645",
+    "FIELD4": "1228",
+    "CHANGE": "25.05",
+    "VALUE": "14566.24",
+    "ALLOCATION": "53.44"
+  },
+  {
+    "ASSETS": "STEEM",
+    "NAME": "Steem",
+    "ICON": "steem.png",
+    "BALANCE": "93196.548",
+    "FIELD4": "5728",
+    "CHANGE": "7.05",
+    "VALUE": "14546.24",
+    "ALLOCATION": "67.27"
+  },
+  {
+    "ASSETS": "TBX",
+    "NAME": "Tokenbox",
+    "ICON": "tokenbox.png",
+    "BALANCE": "9966.645",
+    "CHANGE": "52.05",
+    "FIELD4": "52228",
+    "VALUE": "18846.24",
+    "ALLOCATION": "75.84"
+  },
+  {
+    "ASSETS": "NEAR",
+    "NAME": "Protocal",
+    "ICON": "protocal.png",
+    "BALANCE": "1892.54",
+    "FIELD4": "7556",
+    "CHANGE": "2.05",
+    "VALUE": "122346.24",
+    "ALLOCATION": "11.32"
+  },
+  {
+    "ASSETS": "BTC",
+    "ICON": "btc.png",
+    "BALANCE": "34246.548",
+    "FIELD4": "8958",
+    "CHANGE": "2.05",
+    "VALUE": "143346.24",
+    "ALLOCATION": "33.64"
+  },
+  {
+    "ASSETS": "ETH",
+    "ICON": "eth.png",
+    "BALANCE": "1716.578",
+    "FIELD4": "3228",
+    "CHANGE": "2.05",
+    "VALUE": "55346.24",
+    "ALLOCATION": "27.64"
+  }
+]
